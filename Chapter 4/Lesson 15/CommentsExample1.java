@@ -5,7 +5,7 @@ class CommentsExample1 {
    //the code below prints a line
    
       System.out.println("This code will only compile and execute" +
-         "when I have the comment above commented out");
+         " when I have the comment above commented out");
       
    }
 }
