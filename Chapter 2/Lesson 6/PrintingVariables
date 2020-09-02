@@ -1,0 +1,11 @@
+class PrintingVariables{
+
+   public static void main(String[] args){
+   
+      String str = "My name starts with the letter: ";
+      char character = 'S';
+   
+      System.out.println(str + character);
+   
+   }
+}
