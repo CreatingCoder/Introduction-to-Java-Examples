@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class ScannerExample {
+class IntegerCalculator {
 
    public static void main(String[] args){
    //Create a scanner
