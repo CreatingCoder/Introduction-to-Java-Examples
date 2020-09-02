@@ -10,7 +10,7 @@ class CommentsExample2 {
    //line
    
       System.out.println("This code will only compile and execute" +
-         "when I have the comment above commented out");
+         " when I have the comment above commented out");
       
    }
 }
