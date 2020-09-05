@@ -4,7 +4,7 @@ class OrExample {
       boolean likesCoffee = true;
       boolean hotTemp = false;
    
-      if(likesCoffee == true || cupEmpty == true){
+      if(likesCoffee == true || hotTemp == true){
          System.out.println("An iced coffee sounds good.");
       }
       
