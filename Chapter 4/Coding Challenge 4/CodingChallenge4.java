@@ -1,7 +1,7 @@
 class CodingChallenge4 {
 
    public static void main(String[] args){
-      Boolean I_like_sushi = false;
+      boolean I_like_sushi = false;
    
       if(I_like_sushi == true){
          System.out.println("I could eat sushi everyday!");
