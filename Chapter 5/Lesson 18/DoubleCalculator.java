@@ -10,7 +10,7 @@ class DoubleCalculator {
       System.out.println("Input the first double you want multiplied and press Enter");
       double userInput1 = scan.nextDouble();
       
-   //Print out the next instructions, then scan the 2nds number   
+   //Print out the next instructions, then scan the 2nd number   
       System.out.println("Input the 2nd double you want multiplied and press Enter");
       double userInput2 = scan.nextDouble();
       
