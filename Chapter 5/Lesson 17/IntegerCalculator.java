@@ -10,7 +10,7 @@ class IntegerCalculator {
       System.out.println("Input the first integer you want multiplied and press Enter");
       int userInput1 = scan.nextInt();
       
-   //Print out the next instructions, then scan the 2nds number   
+   //Print out the next instructions, then scan the 2nd number   
       System.out.println("Input the second integer you want multiplied and press Enter");
       int userInput2 = scan.nextInt();
       
